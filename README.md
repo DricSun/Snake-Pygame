@@ -1,3 +1,3 @@
 # Snake-Pygame
 
-#Lib utilisé Vecteur / pour grille et position(deplacement)
+#Lib utilisé maths  pour grille et position(deplacement)
